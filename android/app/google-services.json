@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594206292292",
+    "project_id": "oldage-1408e",
+    "storage_bucket": "oldage-1408e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594206292292:android:d972cef4f3527bd0777f11",
+        "android_client_info": {
+          "package_name": "com.example.dementia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkvzE7n6n-cYYqK15HX9tJKffnzc5X7W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
